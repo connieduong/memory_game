@@ -6,7 +6,7 @@ header {
 
 h1 {
     font-family: "Raleway", sans-serif;
-    color: #0D2C40;
+    color: white;
     letter-spacing: 1px;
     font-weight: 400;
     font-size: 45px;
@@ -29,13 +29,14 @@ h2 {
 a {
 	font-family: "Raleway", sans-serif;
 	font: #f15b31;
+	color: white;
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 18px;
 	text-transform: uppercase;
 	margin: 0 20px;
+	text-decoration: none;
 }
-
 
 body {
     text-align: center;
